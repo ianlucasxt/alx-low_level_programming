@@ -1,3 +1,1 @@
-# Hello world in C programming
-Executable
-YEp
+hello world
